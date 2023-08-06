@@ -8,7 +8,7 @@ import Card from './Card';
 const App = () => {
   const cardData = [
     {
-      plan: 'FREE',
+      plan: 'BASIC',
       price: '$10',
       user: '5 Users',
       userEnabler: true,
